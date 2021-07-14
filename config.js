@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'My brother à!',
-    introDesc: `Sinh nhật vui vẻ
-    sinh đẻ thành công`,
+    introDesc: 'Sinh nhật vui vẻ sinh đẻ thành công' ,
     btnIntro: 'oki iem :>',
     title: ' Iem biết nay sinh nhật anh, nhưng mà, em sẽ ko mua bánh cho anh đou😏',
     desc: 'tại sao hả ? Tại anh phải mua bánh cho iem chứ 😂😂
@@ -13,5 +12,5 @@ const CONFIG = {
     mess: 'Đùa thôi,chúc mừng sênh nhật anh trai !!!!
     messDesc: 'tối nhớ phần iem bánh đấy!!
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'http://facebook.com/canh.tuan.75839
 }
